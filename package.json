@@ -1,0 +1,19 @@
+{
+  "name": "redux-vanillajs-counter",
+  "version": "0.0.67",
+  "description": null,
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "@babel/core": "^7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": []
+}
